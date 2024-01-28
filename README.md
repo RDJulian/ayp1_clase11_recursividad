@@ -5,4 +5,4 @@ de Fibonacci con algoritmos iterativos y recursivos. Finalmente, resolveremos ej
 
 # Presentación:
 
-[Enlace a la presentación](https://docs.google.com/presentation/d/1NK0tFIk-YSBorC0ZUK2Ic8SccMmTTN5udAk5CanVRWA/edit?usp=sharing)
+[Enlace a la presentación](https://docs.google.com/presentation/d/1NH6YsKU-nTCYhZ_ghRNk0g9ULM1jrc22_6W0oAXDskg/edit?usp=sharing)
